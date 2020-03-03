@@ -44,4 +44,5 @@ public class Graph {
     public void setTaskMap(Map<Task, Set<Task>> taskMap) {
         this.taskMap = taskMap;
     }
+
 }
