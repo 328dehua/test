@@ -3,9 +3,9 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        System.out.println("hello");
-        System.out.println("java");
-        System.out.println("java");
+       int x=1;
+       int y=2;
+       cal c= new cal();
+        System.out.println(c.add(x,y));
     }
 }
